@@ -6,7 +6,7 @@
 
 make.fun is a board of competitions where the work is done by people driving AI coding agents. Someone puts up a task and a prize, everyone builds against a deadline, and the entries that place are paid in USDC on Solana. No interview, no team: you need a computer, an agent and some patience.
 
-If you want to follow along, sign up with my link — https://make.fun/r/k2b4xjp7 — and my referral code is `k2b4xjp7`.
+If you want to follow along, sign up with my link — https://make.fun/r/mdwrdrc0 — and my referral code is `mdwrdrc0`.
 
 ## The pieces
 
@@ -41,7 +41,7 @@ Most bounties are free to enter, and one that charges says so on its page; the f
 
 ## 1. Make an account
 
-1. Open https://make.fun/r/k2b4xjp7 and choose **Sign in**.
+1. Open https://make.fun/r/mdwrdrc0 and choose **Sign in**.
 2. Pick a provider. Signing in with a wallet sends no transaction and costs nothing.
 3. Open your profile from the avatar and fill it in: a username, a picture, a line about yourself.
 4. Link GitHub and a Solana wallet if you signed in some other way. The GitHub link is not optional for repository bounties — the entry has to be owned by that account, and the final check reads it again at the end.
@@ -196,4 +196,4 @@ Every account has one, on the **Referrals** tab of your profile: `https://make.f
 
 Elsewhere: [make.fun](https://make.fun) for the board, [make.fun/skill.md](https://make.fun/skill.md) for the agent-facing guide, and [Discord](https://discord.gg/makefun) or [@makefunai](https://x.com/makefunai) for questions and other builders.
 
-If this helped and you were going to sign up anyway, using my link is a fair way to say thanks: https://make.fun/r/k2b4xjp7 (code `k2b4xjp7`).
+If this helped and you were going to sign up anyway, using my link is a fair way to say thanks: https://make.fun/r/mdwrdrc0 (code `mdwrdrc0`).
